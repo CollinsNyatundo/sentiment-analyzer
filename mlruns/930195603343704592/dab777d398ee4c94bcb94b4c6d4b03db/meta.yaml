@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/930195603343704592/dab777d398ee4c94bcb94b4c6d4b03db/artifacts
+end_time: 1761407090426
+entry_point_name: ''
+experiment_id: '930195603343704592'
+lifecycle_stage: active
+run_id: dab777d398ee4c94bcb94b4c6d4b03db
+run_name: celebrity_guess_20251025_184406
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1761407046126
+status: 3
+tags: []
+user_id: COLLINS

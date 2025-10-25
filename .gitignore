@@ -71,3 +71,7 @@ docs/_build/
 # Project specific - DSPy compiled programs (optional)
 # dspy_program/*/program.pkl
 # dspy_program/*/metadata.json
+
+# MLflow tracking data (commented out to allow tracking MLflow experiments locally)
+# mlruns/
+

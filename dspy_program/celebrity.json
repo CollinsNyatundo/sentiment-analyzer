@@ -8,7 +8,7 @@
       "fields": [
         {
           "prefix": "Past Questions:",
-          "description": "past questions "
+          "description": "past questions asked"
         },
         {
           "prefix": "Past Answers:",
@@ -20,11 +20,11 @@
         },
         {
           "prefix": "New Question:",
-          "description": "new question that can"
+          "description": "new question that can help guess the celebrity name"
         },
         {
           "prefix": "Guess Made:",
-          "description": "If the new_question is"
+          "description": "If the new_question is a good guess"
         }
       ]
     },
@@ -39,15 +39,15 @@
       "fields": [
         {
           "prefix": "Correct Celebrity Name:",
-          "description": "the celebrity"
+          "description": "the correct celebrity name"
         },
         {
           "prefix": "Final Guessor Question:",
-          "description": "the final guess"
+          "description": "the final guess question asked"
         },
         {
           "prefix": "Past Questions:",
-          "description": "past questions "
+          "description": "past questions asked"
         },
         {
           "prefix": "Past Answers:",
@@ -59,7 +59,7 @@
         },
         {
           "prefix": "Reflection:",
-          "description": "reflection on the guessing process, including what was"
+          "description": "reflection on the guessing process, including what was learned"
         }
       ]
     },

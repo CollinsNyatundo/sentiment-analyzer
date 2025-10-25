@@ -1,0 +1,11 @@
+execution_duration_ms: 82
+request_preview: '{"text": "I am feeling pretty happy!"}'
+request_time: '2025-10-25T14:58:30.663Z'
+response_preview: '{"reasoning": "The text expresses a positive emotion, specifically
+  happiness, which indicates a strong positive sentiment.", "sentiment": 8}'
+state: OK
+trace_id: tr-1d1749fd01d20b51fae58b53f950806c
+trace_location:
+  mlflow_experiment:
+    experiment_id: '930195603343704592'
+  type: MLFLOW_EXPERIMENT

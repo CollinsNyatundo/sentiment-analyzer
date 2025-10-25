@@ -1,0 +1,10 @@
+execution_duration_ms: 35
+request_preview: '{"text": "I feel neutral about this situation."}'
+request_time: '2025-10-25T15:56:44.057Z'
+response_preview: '{"sentiment": 5}'
+state: OK
+trace_id: tr-8eb748e29390ade4a742de553fc85319
+trace_location:
+  mlflow_experiment:
+    experiment_id: '930195603343704592'
+  type: MLFLOW_EXPERIMENT

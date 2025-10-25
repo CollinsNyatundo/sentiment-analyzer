@@ -1,0 +1,10 @@
+execution_duration_ms: 26
+request_preview: '{"text": "This is terrible and I hate it."}'
+request_time: '2025-10-25T15:44:05.003Z'
+response_preview: '{"sentiment": 0}'
+state: OK
+trace_id: tr-51673f7cc0df1fd486536e7115333f59
+trace_location:
+  mlflow_experiment:
+    experiment_id: '930195603343704592'
+  type: MLFLOW_EXPERIMENT

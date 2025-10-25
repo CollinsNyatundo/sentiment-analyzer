@@ -1,0 +1,10 @@
+execution_duration_ms: 46
+request_preview: '{"text": "I am feeling pretty happy!"}'
+request_time: '2025-10-25T15:44:05.298Z'
+response_preview: '{"sentiment": 8}'
+state: OK
+trace_id: tr-575c944de52548b41aec36c2b405eb81
+trace_location:
+  mlflow_experiment:
+    experiment_id: '930195603343704592'
+  type: MLFLOW_EXPERIMENT

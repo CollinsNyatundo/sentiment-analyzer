@@ -1,0 +1,10 @@
+execution_duration_ms: 38
+request_preview: '{"text": "This makes me so angry and frustrated."}'
+request_time: '2025-10-25T14:49:15.142Z'
+response_preview: '{"sentiment": 2}'
+state: OK
+trace_id: tr-f27e12b7cd4187dbdf6739cbc331b612
+trace_location:
+  mlflow_experiment:
+    experiment_id: '930195603343704592'
+  type: MLFLOW_EXPERIMENT

@@ -1,0 +1,10 @@
+execution_duration_ms: 58
+request_preview: '{"text": "I''m absolutely thrilled with the results!"}'
+request_time: '2025-10-25T15:08:04.641Z'
+response_preview: '{"sentiment": 10}'
+state: OK
+trace_id: tr-11b3c7b9d5f2535dd952bc5023eef23c
+trace_location:
+  mlflow_experiment:
+    experiment_id: '930195603343704592'
+  type: MLFLOW_EXPERIMENT
