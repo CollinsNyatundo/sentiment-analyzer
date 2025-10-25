@@ -1,5 +1,73 @@
-# env file
+# Environment variables (contains API keys)
 .env
+.env.local
+.env.*.local
 
-# virtual environment.
-.venv
+# Virtual environments
+.venv/
+venv/
+env/
+ENV/
+env.bak/
+venv.bak/
+
+# Python cache files
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+
+# Jupyter notebook checkpoints
+.ipynb_checkpoints/
+
+# IDE and editor files
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS generated files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# Temporary files
+*.tmp
+*.temp
+*.log
+.tmp/
+.temp/
+tmp/
+temp/
+
+# Cache directories
+.cache/
+*.cache
+.pytest_cache/
+
+# Distribution and build files
+build/
+dist/
+*.egg-info/
+.eggs/
+MANIFEST
+
+# Coverage and testing
+.coverage
+.coverage.*
+htmlcov/
+.pytest_cache/
+.tox/
+.nox/
+
+# Documentation builds
+docs/_build/
+
+# Project specific - DSPy compiled programs (optional)
+# dspy_program/*/program.pkl
+# dspy_program/*/metadata.json

@@ -1,0 +1,75 @@
+{
+  "question_generator.predict": {
+    "traces": [],
+    "train": [],
+    "demos": [],
+    "signature": {
+      "instructions": "Genereate a yes or no question in order to guess the celebrity name",
+      "fields": [
+        {
+          "prefix": "Past Questions:",
+          "description": "past questions "
+        },
+        {
+          "prefix": "Past Answers:",
+          "description": "past answers"
+        },
+        {
+          "prefix": "Reasoning: Let's think step by step in order to",
+          "description": "${reasoning}"
+        },
+        {
+          "prefix": "New Question:",
+          "description": "new question that can"
+        },
+        {
+          "prefix": "Guess Made:",
+          "description": "If the new_question is"
+        }
+      ]
+    },
+    "lm": null
+  },
+  "reflection.predict": {
+    "traces": [],
+    "train": [],
+    "demos": [],
+    "signature": {
+      "instructions": "Provide reflection on the guessing process",
+      "fields": [
+        {
+          "prefix": "Correct Celebrity Name:",
+          "description": "the celebrity"
+        },
+        {
+          "prefix": "Final Guessor Question:",
+          "description": "the final guess"
+        },
+        {
+          "prefix": "Past Questions:",
+          "description": "past questions "
+        },
+        {
+          "prefix": "Past Answers:",
+          "description": "past answers"
+        },
+        {
+          "prefix": "Reasoning: Let's think step by step in order to",
+          "description": "${reasoning}"
+        },
+        {
+          "prefix": "Reflection:",
+          "description": "reflection on the guessing process, including what was"
+        }
+      ]
+    },
+    "lm": null
+  },
+  "metadata": {
+    "dependency_versions": {
+      "python": "3.13",
+      "dspy": "3.0.3",
+      "cloudpickle": "3.1"
+    }
+  }
+}

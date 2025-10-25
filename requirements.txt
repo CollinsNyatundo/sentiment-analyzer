@@ -1,0 +1,4 @@
+dspy-ai
+python-dotenv
+openai
+litellm
